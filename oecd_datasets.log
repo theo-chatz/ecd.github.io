@@ -1,0 +1,16 @@
+DEBUG:root:Log started at 2019-10-05 17:25:04.362400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): stats.oecd.org:80
+DEBUG:urllib3.connectionpool:http://stats.oecd.org:80 "GET /SDMX-JSON/data/MEI_CLI/all?startTime=2018 HTTP/1.1" 302 187
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): stats.oecd.org:443
+DEBUG:urllib3.connectionpool:https://stats.oecd.org:443 "GET /SDMX-JSON/data/MEI_CLI/all?startTime=2018 HTTP/1.1" 200 206656
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): stats.oecd.org:80
+DEBUG:urllib3.connectionpool:http://stats.oecd.org:80 "GET /SDMX-JSON/data/QNA/all?startTime=2018 HTTP/1.1" 302 183
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): stats.oecd.org:443
+DEBUG:urllib3.connectionpool:https://stats.oecd.org:443 "GET /SDMX-JSON/data/QNA/all?startTime=2018 HTTP/1.1" 200 5213517
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): stats.oecd.org:80
+DEBUG:urllib3.connectionpool:http://stats.oecd.org:80 "GET /SDMX-JSON/data/QNA/all HTTP/1.1" 302 168
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): stats.oecd.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): stats.oecd.org:80
+DEBUG:urllib3.connectionpool:http://stats.oecd.org:80 "GET /SDMX-JSON/data/QNA/all?startTime=2018 HTTP/1.1" 302 183
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): stats.oecd.org:443
+DEBUG:urllib3.connectionpool:https://stats.oecd.org:443 "GET /SDMX-JSON/data/QNA/all?startTime=2018 HTTP/1.1" 200 5213517
